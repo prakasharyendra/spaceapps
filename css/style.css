@@ -1,0 +1,36 @@
+.home {
+    background: #20212A;
+    height: 100vh;
+    width: 100vw;
+}
+
+nav {
+    background: #FF4A3B;
+    width: 70%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.registerBtn {
+    color: black;
+    background: white;
+    padding: 0px 30px 0px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.homeImage {
+    height: 80%;
+    justify-content: center;
+}
+
+.homeImage >img {
+    width: 30%;
+    vertical-align: middle;
+}
+
+.homeText {
+    font-size: 1.5em;
+    color: white;
+    padding-right: 15px;
+}
