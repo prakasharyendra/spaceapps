@@ -132,14 +132,17 @@ nav {
     font-family: Quicksand;
 }
 
-.col > img {
-    width: 100%;
-}
-
 .typeOfSpon {
     text-align: center;
     font-size: 1.5em;
 }
+
+.sponImage{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
 
 .contact {
     height: 100vh;
@@ -214,4 +217,8 @@ nav {
   }
   .underline--magical:hover {
     background-size: 100% 88%;
+  }
+
+  .roundedBorder {
+      border-radius: 15px;
   }
